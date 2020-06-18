@@ -3,7 +3,8 @@
 ## dev
 
 ```bash
-yarn install
+git clone https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate
+yarn
 yarn start
 ```
 
