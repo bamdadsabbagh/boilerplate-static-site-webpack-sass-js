@@ -797,7 +797,7 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@bamdadsabbagh/eslint-config@^1.1.16", "@bamdadsabbagh/eslint-config@^1.2.2":
+"@bamdadsabbagh/eslint-config@^1.2.2":
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.2.2.tgz#bc880a8b8bd6abc8e42df3d78678cc5a1b287ff0"
   integrity sha512-jnZWEQIICF8L0hK1WovkX7Fx+7zzexPpbtcbaC3l/Z/9njeek9siIZqgSvkqTQqWSxO0jTW8ooLsUXB+ls7Lxg==
@@ -819,10 +819,10 @@
     snyk "^1.349.0"
     typescript "^3.9.3"
 
-"@bamdadsabbagh/stylelint-config@^1.1.4", "@bamdadsabbagh/stylelint-config@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.0.tgz#35e86b75a607b9e147ab10d003125be6b8f1ccbe"
-  integrity sha512-sTC/liTN4hZEAl//IEpYmA6pehUXpKNhfUdwqywkY/FCGvCmwToG1QQoDE9GF1yT8Gx7uBh1VXChzn68DpOfCA==
+"@bamdadsabbagh/stylelint-config@^1.2.0", "@bamdadsabbagh/stylelint-config@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.1.tgz#859fbd89ae54cd0870ac693d3fb925aac4c491bf"
+  integrity sha512-osynnDk76okihMqU84A8xWZfJXVrLkfuSjuRUJhd29nd1I0EW51PEp+dhbfaxe5xr+6N/s/T2uuoC76xuNtUyg==
   dependencies:
     snyk "^1.349.0"
     stylelint "^13.5.0"
@@ -831,16 +831,16 @@
     stylelint-config-styled-components "^0.1.1"
     stylelint-processor-styled-components "^1.10.0"
 
-"@bamdadsabbagh/webpack-config@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.0.tgz#fdcb15793cb56c5ee8ee9364e3bce98894682c07"
-  integrity sha512-sYnqkrB1YEn6KAWfmRADw/zurmlRmqxvggGne+skMc53Mt9If1lHfIsH4XV0gPua62cSqY/duYrylspHlJe+/Q==
+"@bamdadsabbagh/webpack-config@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.1.tgz#8cb23979f2f20258b040219658d173150436fe11"
+  integrity sha512-eJtof/nQdWgzRbbXcghhYKwWb5gmFZnlpMoW0Ha/rIRxqeEbPfLwn18vQZ1zX9tXU9xhr1PUSeXkH52lzXq/xg==
   dependencies:
     "@babel/core" "^7.10.3"
     "@babel/plugin-proposal-class-properties" "^7.10.1"
     "@babel/preset-env" "^7.10.3"
-    "@bamdadsabbagh/eslint-config" "^1.1.16"
-    "@bamdadsabbagh/stylelint-config" "^1.1.4"
+    "@bamdadsabbagh/eslint-config" "^1.2.2"
+    "@bamdadsabbagh/stylelint-config" "^1.2.0"
     babel-loader "^8.1.0"
     clean-webpack-plugin "^3.0.0"
     copy-webpack-plugin "^6.0.2"
