@@ -11,9 +11,9 @@
     "build:serve": "serve -s dist/"
   },
   "devDependencies": {
-    "@bamdadsabbagh/eslint-config": "^1.2.6",
-    "@bamdadsabbagh/stylelint-config": "^1.2.4",
-    "@bamdadsabbagh/webpack-config": "^1.1.5"
+    "@bamdadsabbagh/eslint-config": "^1.2.7",
+    "@bamdadsabbagh/stylelint-config": "^1.2.5",
+    "@bamdadsabbagh/webpack-config": "^1.1.6"
   },
   "dependencies": {}
 }
