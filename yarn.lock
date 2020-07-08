@@ -797,12 +797,12 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@bamdadsabbagh/eslint-config@^1.2.11", "@bamdadsabbagh/eslint-config@^1.2.9":
-  version "1.2.11"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.2.11.tgz#eb4281b0305a1f905fa1892fcf8ca57f48f0e408"
-  integrity sha512-NBXN3aaEzPG44p2uv8uMh/KP8tN4EYi8kKWW71M7RSL0+VA2h2Kqs2hyKMl5bsQiqCDYI2t0qs5pE4LvkpNNzQ==
+"@bamdadsabbagh/eslint-config@^1.2.11", "@bamdadsabbagh/eslint-config@^1.2.12":
+  version "1.2.12"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.2.12.tgz#2df0813e03d7526fc226d315afed915aa3b88b8b"
+  integrity sha512-BZ1b4r/0i8t5545uw0M59WnE2v0tJUWFoMZip0MrzBo8X/bqapeb8lBblooIcWfX4Zqm2GxflA09V0PNLqqUnQ==
   dependencies:
-    "@types/node" "^14.0.18"
+    "@types/node" "^14.0.19"
     "@types/react" "^16.9.41"
     "@types/react-dom" "^16.9.8"
     "@typescript-eslint/eslint-plugin" "^3.6.0"
@@ -814,12 +814,12 @@
     eslint-plugin-jsx-a11y "^6.3.1"
     eslint-plugin-prettier "^3.1.2"
     eslint-plugin-react "^7.20.3"
-    eslint-plugin-react-hooks "^4.0.5"
+    eslint-plugin-react-hooks "^4.0.6"
     prettier "^2.0.5"
     snyk "^1.360.0"
     typescript "^3.9.6"
 
-"@bamdadsabbagh/stylelint-config@^1.2.10", "@bamdadsabbagh/stylelint-config@^1.2.8":
+"@bamdadsabbagh/stylelint-config@^1.2.10":
   version "1.2.10"
   resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.10.tgz#d85ddbb948aa902615c7bfc28013d3697dc8b7d3"
   integrity sha512-rtejTOYXThEWE0jMbGcaVXvUe5iMdJ2DOMF5D0DRkbL9ehz47mY9rh5IE+iqm3T/lmM82JaXVx9v1GnlVPfnAA==
@@ -831,16 +831,16 @@
     stylelint-config-styled-components "^0.1.1"
     stylelint-processor-styled-components "^1.10.0"
 
-"@bamdadsabbagh/webpack-config@^1.1.11":
-  version "1.1.11"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.11.tgz#01e0fb6c7150ab5a6c905ab356f886a4f9e791d7"
-  integrity sha512-hk9cj5zYaSbb4PuS+tRRsdtfq2TQ8g6e7zMLRLZdYDj7kB1eQEa2rSl4/0b1JdxHwyNuCtQZfJApE1CaAEeSOQ==
+"@bamdadsabbagh/webpack-config@^1.1.12":
+  version "1.1.12"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.12.tgz#a354a9b6657caf8463f6335a00fb72f3948bfb2f"
+  integrity sha512-C0nr/LTcUFkkYSbIRuFHsq0P63h5A4tbM1T/klx2Nf1ShBxGLL+PRF5MpfGGZurbkSv6jo8b8/ZLqYiocdmegQ==
   dependencies:
     "@babel/core" "^7.10.4"
     "@babel/plugin-proposal-class-properties" "^7.10.4"
     "@babel/preset-env" "^7.10.4"
-    "@bamdadsabbagh/eslint-config" "^1.2.9"
-    "@bamdadsabbagh/stylelint-config" "^1.2.8"
+    "@bamdadsabbagh/eslint-config" "^1.2.11"
+    "@bamdadsabbagh/stylelint-config" "^1.2.10"
     babel-loader "^8.1.0"
     clean-webpack-plugin "^3.0.0"
     copy-webpack-plugin "^6.0.3"
@@ -854,7 +854,7 @@
     postcss-loader "^3.0.0"
     postcss-preset-env "^6.7.0"
     sass "^1.26.10"
-    sass-loader "^9.0.1"
+    sass-loader "^9.0.2"
     serve "^11.3.2"
     snyk "^1.360.0"
     style-loader "^1.2.1"
@@ -864,7 +864,7 @@
     webpack "^4.43.0"
     webpack-cli "^3.3.12"
     webpack-dev-server "^3.11.0"
-    webpack-merge "^5.0.7"
+    webpack-merge "^5.0.8"
 
 "@csstools/convert-colors@^1.4.0":
   version "1.4.0"
@@ -1253,7 +1253,7 @@
   resolved "https://registry.yarnpkg.com/@types/minimist/-/minimist-1.2.0.tgz#69a23a3ad29caf0097f06eda59b361ee2f0639f6"
   integrity sha1-aaI6OtKcrwCX8G7aWbNh7i8GOfY=
 
-"@types/node@*", "@types/node@^14.0.18":
+"@types/node@*", "@types/node@^14.0.19":
   version "14.0.19"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.0.19.tgz#994d99708822bca643a2364f8aeed04a16e0f5a1"
   integrity sha512-yf3BP/NIXF37BjrK5klu//asUWitOEoUP5xE1mhSUjazotwJ/eJDgEmMQNlOeWOVv72j24QQ+3bqXHE++CFGag==
@@ -4026,7 +4026,7 @@ eslint-plugin-prettier@^3.1.2:
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
-eslint-plugin-react-hooks@^4.0.5:
+eslint-plugin-react-hooks@^4.0.6:
   version "4.0.6"
   resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-4.0.6.tgz#4027ae451b5cd219928edd0ff9eab54a8ea82901"
   integrity sha512-RDrsUR/BjwCECcWS+5bc7mWiU/M1IOizKt40Zuei5mn0Eydubiooh87aSCiZ/BGMSUF7P8AqyMEqQL0RsAihmw==
@@ -8967,7 +8967,7 @@ safe-regex@^1.1.0:
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-sass-loader@^9.0.1:
+sass-loader@^9.0.2:
   version "9.0.2"
   resolved "https://registry.yarnpkg.com/sass-loader/-/sass-loader-9.0.2.tgz#847c9b4c95328ddc8c7d35cf28c9d6e54e59a90b"
   integrity sha512-nphcum3jNI442njnrZ5wJgSNX5lfEOHOKHCLf+PrTIaleploKqAMUuT9CVKjf+lyi6c2MCGPHh1vb9nGsjnZJA==
@@ -10979,7 +10979,7 @@ webpack-log@^2.0.0:
     ansi-colors "^3.0.0"
     uuid "^3.3.2"
 
-webpack-merge@^5.0.7:
+webpack-merge@^5.0.8:
   version "5.0.8"
   resolved "https://registry.yarnpkg.com/webpack-merge/-/webpack-merge-5.0.8.tgz#fe8590c58582e884bde52f87a1f5586a5bc65930"
   integrity sha512-jyPPojSgC42YnepNlK7oxpVfvfyW+xZQ3O6+K9BZDC67+9eDEAtQSv+bFAQn2Q49QSrfe42MdFs2ABGXJG6tTA==
