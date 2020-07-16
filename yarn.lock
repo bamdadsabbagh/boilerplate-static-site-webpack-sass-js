@@ -795,7 +795,7 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@bamdadsabbagh/eslint-config@^1.3.5", "@bamdadsabbagh/eslint-config@^1.3.6":
+"@bamdadsabbagh/eslint-config@^1.3.6":
   version "1.3.6"
   resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.3.6.tgz#153a73607253013d4dbcd8e25f2b5cea4e42d9f9"
   integrity sha512-E2vF4ePcgAVMRv6fYOzhJ0Kcsh3WA5f2jADWoNq/VBQvSVEvFC4f0ZsDiGUUTQFighFhHVe+RUx2yMRN3XfE/Q==
@@ -817,10 +817,10 @@
     prettier "^2.0.5"
     typescript "^3.9.6"
 
-"@bamdadsabbagh/stylelint-config@^1.2.16", "@bamdadsabbagh/stylelint-config@^1.2.17":
-  version "1.2.17"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.17.tgz#e34f2debab91fa59de730f75c941946ff1f673aa"
-  integrity sha512-ZcIwk8uovmCQM3QfSiNGCWyAjdCAYA0qDT2bNfvBjiW81dgsUQSexevCNWUq88TQSlHbAYqWte6hnGYmvAFShQ==
+"@bamdadsabbagh/stylelint-config@^1.2.17", "@bamdadsabbagh/stylelint-config@^1.2.18":
+  version "1.2.18"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.18.tgz#94c790840cfb786fb5f9b1732260613ac7d1e26e"
+  integrity sha512-LmrB0eUfrZY7itVnhfXR5/z3AGwffuiMo9Rif6sQfknDRGvwC/4zqznWCzYX6WaFNPX80li8MeFZXcuvEhW04Q==
   dependencies:
     stylelint "^13.5.0"
     stylelint-config-prettier "^8.0.1"
@@ -828,16 +828,16 @@
     stylelint-config-styled-components "^0.1.1"
     stylelint-processor-styled-components "^1.10.0"
 
-"@bamdadsabbagh/webpack-config@^1.1.20":
-  version "1.1.20"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.20.tgz#8efe75a4df87705f59ebf3642e7e6e76dd175327"
-  integrity sha512-tVl9fbmOzxv3q3Y0n/jM+Bg3bJ4mm/DQXZVXhOxTKDMfczS7VveQDX52It8goL7vIua+E1VryWDgdCFrIAHeZw==
+"@bamdadsabbagh/webpack-config@^1.1.21":
+  version "1.1.21"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.21.tgz#7438ff96e8386e63de9a82ccd606a879d3030868"
+  integrity sha512-/u4PxJWhb149YXoooqoTR/EsO4C0ZGLWbJ7MV9BCUOA4fVbv0lngi/PaEYzxd9HxSDJz4DQ8278MksNJ4VYfMg==
   dependencies:
     "@babel/core" "^7.10.5"
     "@babel/plugin-proposal-class-properties" "^7.10.4"
     "@babel/preset-env" "^7.10.4"
-    "@bamdadsabbagh/eslint-config" "^1.3.5"
-    "@bamdadsabbagh/stylelint-config" "^1.2.16"
+    "@bamdadsabbagh/eslint-config" "^1.3.6"
+    "@bamdadsabbagh/stylelint-config" "^1.2.17"
     babel-loader "^8.1.0"
     clean-webpack-plugin "^3.0.0"
     copy-webpack-plugin "^6.0.3"
@@ -2075,9 +2075,9 @@ character-reference-invalid@^1.0.0:
   integrity sha512-mKKUkUbhPpQlCOfIuZkvSEgktjPFIsZKRRbC6KWVEMvlzblj3i3asQv5ODsrwt0N3pHAEvjP8KTQPHkp0+6jOg==
 
 "chokidar@>=2.0.0 <4.0.0", chokidar@^3.4.0:
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-3.4.0.tgz#b30611423ce376357c765b9b8f904b9fba3c0be8"
-  integrity sha512-aXAaho2VJtisB/1fg1+3nlLJqGOuewTzQpd/Tz0yTg2R0e4IGtshYvtjowyEumcBv2z+y4+kc75Mz7j5xJskcQ==
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-3.4.1.tgz#e905bdecf10eaa0a0b1db0c664481cc4cbc22ba1"
+  integrity sha512-TQTJyr2stihpC4Sya9hs2Xh+O2wf+igjL36Y75xx2WdHuiICcn/XJza46Jwt0eT5hVpQOzo3FpY3cj3RVYLX0g==
   dependencies:
     anymatch "~3.1.1"
     braces "~3.0.2"
