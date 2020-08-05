@@ -18,7 +18,7 @@
     invariant "^2.2.4"
     semver "^5.5.0"
 
-"@babel/core@>=7.9.0", "@babel/core@^7.11.0":
+"@babel/core@>=7.9.0", "@babel/core@^7.11.1":
   version "7.11.1"
   resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.11.1.tgz#2c55b604e73a40dc21b0e52650b11c65cf276643"
   integrity sha512-XqF7F6FWQdKGGWAzGELL+aCO1p+lRY5Tj5/tbT3St1G8NaH70jhhDIKknIZaDans0OQBG5wRAldROLHSt44BgQ==
@@ -838,10 +838,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@bamdadsabbagh/eslint-config@^1.3.21", "@bamdadsabbagh/eslint-config@^1.3.22":
-  version "1.3.22"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.3.22.tgz#3663e4e43483c8cfcf9e12c6b26b468ae0aac11b"
-  integrity sha512-6k9cNbLfQtFmrlki01fQGXkSy/XeE8UP189jed3Br5UmqiCY2c9k0ednNbJA2afogmorxpzNjXdEF2H2mMuyxA==
+"@bamdadsabbagh/eslint-config@^1.3.22", "@bamdadsabbagh/eslint-config@^1.3.23":
+  version "1.3.23"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.3.23.tgz#518d012f311e7ca48374e999c6dc9b0a574dd242"
+  integrity sha512-M92d5m8vL8l3qU3aH2MjTSAqGYYtc437Cbx76z2aBsxVrTFPcXkae4Hxn7ZkSl/BR2VSK8HKw1ogA3i2hDbePw==
   dependencies:
     "@types/node" "^14.0.27"
     "@types/react" "^16.9.44"
@@ -860,10 +860,10 @@
     prettier "^2.0.5"
     typescript "^3.9.7"
 
-"@bamdadsabbagh/stylelint-config@^1.2.33", "@bamdadsabbagh/stylelint-config@^1.2.34":
-  version "1.2.34"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.34.tgz#066a8da276456d190d579af8b9248b968673e149"
-  integrity sha512-cPFpQuiu8SxNsCdeASLsMAP9h1OMCTqkUcvjPAVYv/9NjYYAg5bw/EzT+/kN7ZN2Cp/CGv8o66u+5ElIlT/ndw==
+"@bamdadsabbagh/stylelint-config@^1.2.34", "@bamdadsabbagh/stylelint-config@^1.2.35":
+  version "1.2.35"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.35.tgz#36ba538beb7581a1a6ba2264e32883dcce3458f0"
+  integrity sha512-ptxVXUwEX99qf4zv24n9TyEPy6Zlpf0J26KcUSzK/nQgTZi9xvw19KDvj5EvoSuNq37SSDDJ/62bb2PRIm/UwA==
   dependencies:
     stylelint "^13.5.0"
     stylelint-config-prettier "^8.0.1"
@@ -871,16 +871,16 @@
     stylelint-config-styled-components "^0.1.1"
     stylelint-processor-styled-components "^1.10.0"
 
-"@bamdadsabbagh/webpack-config@^1.1.39":
-  version "1.1.39"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.39.tgz#6f3894509ff91c33057edc654bd0fd230c918018"
-  integrity sha512-hSD6BZXDWVCi7dVAvNCREkwB9vYQ6OXe8q3kOITuKmrqfpbDQUo9G1rvLi/ajHo2z3IjsnprmscvEm2PrZJUSQ==
+"@bamdadsabbagh/webpack-config@^1.1.40":
+  version "1.1.40"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.40.tgz#f5932d5a64eae40ed4acd4724d97369a54d78393"
+  integrity sha512-W4/yh9FbjpqV/AZirX9c0pUarVVm+LqDkuMEn2TML3mb7USSBv5gXL9s46CXPOsk1JNgPzu57k8jNuGTzs+wpA==
   dependencies:
-    "@babel/core" "^7.11.0"
+    "@babel/core" "^7.11.1"
     "@babel/plugin-proposal-class-properties" "^7.10.4"
     "@babel/preset-env" "^7.11.0"
-    "@bamdadsabbagh/eslint-config" "^1.3.21"
-    "@bamdadsabbagh/stylelint-config" "^1.2.33"
+    "@bamdadsabbagh/eslint-config" "^1.3.22"
+    "@bamdadsabbagh/stylelint-config" "^1.2.34"
     babel-loader "^8.1.0"
     clean-webpack-plugin "^3.0.0"
     copy-webpack-plugin "^6.0.3"
@@ -897,13 +897,13 @@
     sass-loader "^9.0.2"
     serve "^11.3.2"
     style-loader "^1.2.1"
-    terser-webpack-plugin "^3.1.0"
+    terser-webpack-plugin "^4.0.0"
     typeface-poppins "^0.0.72"
     url-loader "^4.1.0"
     webpack "^4.44.1"
     webpack-cli "^3.3.12"
     webpack-dev-server "^3.11.0"
-    webpack-merge "^5.1.0"
+    webpack-merge "^5.1.1"
 
 "@csstools/convert-colors@^1.4.0":
   version "1.4.0"
@@ -8261,10 +8261,10 @@ terser-webpack-plugin@^1.4.3:
     webpack-sources "^1.4.0"
     worker-farm "^1.7.0"
 
-terser-webpack-plugin@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/terser-webpack-plugin/-/terser-webpack-plugin-3.1.0.tgz#91e6d39571460ed240c0cf69d295bcf30ebf98cb"
-  integrity sha512-cjdZte66fYkZ65rQ2oJfrdCAkkhJA7YLYk5eGOcGCSGlq0ieZupRdjedSQXYknMPo2IveQL+tPdrxUkERENCFA==
+terser-webpack-plugin@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/terser-webpack-plugin/-/terser-webpack-plugin-4.0.0.tgz#d371fe78312c47d33452e465a1096db893613e78"
+  integrity sha512-Gb/bmPMavJsDTYiIocakp9OJhrIBnYrWa5VM0Bb2RngWmszeQUN1xFNh2E8Re+9Cj3/sPrA50Jj/q0nzgLAUuw==
   dependencies:
     cacache "^15.0.5"
     find-cache-dir "^3.3.1"
@@ -8273,13 +8273,22 @@ terser-webpack-plugin@^3.1.0:
     schema-utils "^2.6.6"
     serialize-javascript "^4.0.0"
     source-map "^0.6.1"
-    terser "^4.8.0"
+    terser "^5.0.0"
     webpack-sources "^1.4.3"
 
-terser@^4.1.2, terser@^4.6.3, terser@^4.8.0:
+terser@^4.1.2, terser@^4.6.3:
   version "4.8.0"
   resolved "https://registry.yarnpkg.com/terser/-/terser-4.8.0.tgz#63056343d7c70bb29f3af665865a46fe03a0df17"
   integrity sha512-EAPipTNeWsb/3wLPeup1tVPaXfIaU68xMnVdPafIL1TV05OhASArYyIfFvnvJCNrR2NIOvDVNNTFRa+Re2MWyw==
+  dependencies:
+    commander "^2.20.0"
+    source-map "~0.6.1"
+    source-map-support "~0.5.12"
+
+terser@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/terser/-/terser-5.0.0.tgz#269640e4e92f15d628de1e5f01c4c61e1ba3d765"
+  integrity sha512-olH2DwGINoSuEpSGd+BsPuAQaA3OrHnHnFL/rDB2TVNc3srUbz/rq/j2BlF4zDXI+JqAvGr86bIm1R2cJgZ3FA==
   dependencies:
     commander "^2.20.0"
     source-map "~0.6.1"
@@ -8863,7 +8872,7 @@ webpack-log@^2.0.0:
     ansi-colors "^3.0.0"
     uuid "^3.3.2"
 
-webpack-merge@^5.1.0:
+webpack-merge@^5.1.1:
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/webpack-merge/-/webpack-merge-5.1.1.tgz#c79f36b4ad39a597c3bb780f809b514d65d85d01"
   integrity sha512-UhIkHAVqeG9EqFfYo7dRELrVfH6HYaOTYM7ssKCwfIIHYnWepGVOFp1E166GwgPGFqV6M68UgRiKOERjVOKIXA==
