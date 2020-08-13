@@ -838,10 +838,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@bamdadsabbagh/eslint-config@^1.3.27":
-  version "1.3.27"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.3.27.tgz#5122dd564f820f4bd43e385d39f7e2fc822e081b"
-  integrity sha512-aVKaFO155bxLsNC2ZlQdIXUqVknAQSwD7C8TU9Ju+h9ByrkeHlydeuwdEEfWSL8oAZLCLlsefiS2KJISHZDVUQ==
+"@bamdadsabbagh/eslint-config@^1.3.27", "@bamdadsabbagh/eslint-config@^1.3.28":
+  version "1.3.28"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.3.28.tgz#e3010711750b54e2230b63e23c68bdb55a71666c"
+  integrity sha512-PzCxosHOkauVcJ4cV8yBYzCT+Oqep49lT29JVyNPvOVpsN6x96At8AIs3eshBn7hDk4y2G5zTJWZU8CY1Gqs1g==
   dependencies:
     "@types/node" "^14.0.27"
     "@types/react" "^16.9.46"
@@ -855,15 +855,15 @@
     eslint-plugin-jest "^23.20.0"
     eslint-plugin-jsx-a11y "^6.3.1"
     eslint-plugin-prettier "^3.1.2"
-    eslint-plugin-react "^7.20.5"
+    eslint-plugin-react "^7.20.6"
     eslint-plugin-react-hooks "^4.0.8"
     prettier "^2.0.5"
     typescript "^3.9.7"
 
-"@bamdadsabbagh/stylelint-config@^1.2.40", "@bamdadsabbagh/stylelint-config@^1.2.41":
-  version "1.2.41"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.41.tgz#0dcd39c4aab49a9719514ad732b4a3d4531c0ac7"
-  integrity sha512-Wxzlk16PnoVIAhJi0moNY05Q5Z3Z0y+2z3jghrimWCoCCZLywtEOGieEd3MVaYQCxFVeb0qtCLuWpAXdjBzgOw==
+"@bamdadsabbagh/stylelint-config@^1.2.41", "@bamdadsabbagh/stylelint-config@^1.2.42":
+  version "1.2.42"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.42.tgz#7630c48ef2bdd0bd4f661e6d3d56031cd4d8faed"
+  integrity sha512-hhZLKmeXq9zqOL+F7sYg7qivJ95mP/lG1Og1XUWzjDec2b72cICHqe5KksTgWV5CHWqvu4x+1vRyGioCySnjHA==
   dependencies:
     stylelint "^13.5.0"
     stylelint-config-prettier "^8.0.1"
@@ -871,16 +871,16 @@
     stylelint-config-styled-components "^0.1.1"
     stylelint-processor-styled-components "^1.10.0"
 
-"@bamdadsabbagh/webpack-config@^1.1.47":
-  version "1.1.47"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.47.tgz#f2f0b3bb937e2e0ff6fd844690029e5499e8efdd"
-  integrity sha512-ktOmBsXG6YiJWB8Zu0LtkTvHS9M4wrPYpS8nrYr+dCKRGY0j/vvgsb7VOuRFoEapI0YLid/gk6oW90JNUnXz7w==
+"@bamdadsabbagh/webpack-config@^1.1.48":
+  version "1.1.48"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.48.tgz#74d57e1e2503a42c73d25b0f0ab5672c2844b928"
+  integrity sha512-l8oy/v/eVAmLRaTrPo4FNayH2Q7f+LsDJaN6yuqiNqTDJJl3f2DmM0C1Q0B8yJQk/oRB8bdnpW+8nzKKGXdJMA==
   dependencies:
     "@babel/core" "^7.11.1"
     "@babel/plugin-proposal-class-properties" "^7.10.4"
     "@babel/preset-env" "^7.11.0"
     "@bamdadsabbagh/eslint-config" "^1.3.27"
-    "@bamdadsabbagh/stylelint-config" "^1.2.40"
+    "@bamdadsabbagh/stylelint-config" "^1.2.41"
     babel-loader "^8.1.0"
     clean-webpack-plugin "^3.0.0"
     copy-webpack-plugin "^6.0.3"
@@ -3319,7 +3319,7 @@ eslint-plugin-react-hooks@^4.0.8:
   resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-4.0.8.tgz#a9b1e3d57475ccd18276882eff3d6cba00da7a56"
   integrity sha512-6SSb5AiMCPd8FDJrzah+Z4F44P2CdOaK026cXFV+o/xSRzfOiV1FNFeLl2z6xm3yqWOQEZ5OfVgiec90qV2xrQ==
 
-eslint-plugin-react@^7.20.5:
+eslint-plugin-react@^7.20.6:
   version "7.20.6"
   resolved "https://registry.yarnpkg.com/eslint-plugin-react/-/eslint-plugin-react-7.20.6.tgz#4d7845311a93c463493ccfa0a19c9c5d0fd69f60"
   integrity sha512-kidMTE5HAEBSLu23CUDvj8dc3LdBU0ri1scwHBZjI41oDv4tjsWZKU7MQccFzH1QYPYhsnTF2ovh7JlcIcmxgg==
