@@ -16,5 +16,5 @@
     "@bamdadsabbagh/stylelint-config": "^1.2.45",
     "@bamdadsabbagh/webpack-config": "^1.1.52"
   },
-  "version": "1.2.29"
+  "version": "1.2.30"
 }
