@@ -836,10 +836,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@bamdadsabbagh/eslint-config@^1.3.29", "@bamdadsabbagh/eslint-config@^1.3.34":
-  version "1.3.34"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.3.34.tgz#91565b68b51367c0a9f895a418812efeb193d5e7"
-  integrity sha512-L9SFXe3hqMDzDRPDUKH3fv3HIy2jKYnjtocaVuvZ7yUoud8+ppt66CcCgKvakhwuaaf3s1Vs51Fvq2GdgkeatA==
+"@bamdadsabbagh/eslint-config@^1.3.29", "@bamdadsabbagh/eslint-config@^1.3.35":
+  version "1.3.35"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.3.35.tgz#dc6597977941b9deabcf3e0d1474e4dd1df298c3"
+  integrity sha512-EWMN9BAneZwtIaPjYm8T+hJsgjmX18zdkHyrWjWiOfWxhjE9rBU522dGok4zds66I0Z0d+RrukzTDjOiiItCBw==
   dependencies:
     "@types/node" "^14.0.27"
     "@types/react" "^16.9.46"
@@ -869,10 +869,10 @@
     stylelint-config-styled-components "^0.1.1"
     stylelint-processor-styled-components "^1.10.0"
 
-"@bamdadsabbagh/webpack-config@^1.1.59":
-  version "1.1.59"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.59.tgz#d5c28ea9caa1c811a0c615b56072a29943d27b2f"
-  integrity sha512-VPZdgdakaruh+TB55jValpIkhtYuyvpRfZIUaQb3x7VYka3XRxnmaP5MxnnVzRTHzPlQxYW/28wC0O2E1QB31g==
+"@bamdadsabbagh/webpack-config@^1.1.60":
+  version "1.1.60"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.60.tgz#48ec8f36cc3479309c82cb16ea8f8786d27d9830"
+  integrity sha512-ed0VEDkupMTCMZZODvS5bq/ZNkrt0cqCOKBOoFYzfZbKJTZAtMe0ETCSH5Kn/NHwiCGNkigRPPCGsAsiCh7vlQ==
   dependencies:
     "@babel/core" "^7.11.1"
     "@babel/plugin-proposal-class-properties" "^7.10.4"
