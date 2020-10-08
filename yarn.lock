@@ -858,10 +858,10 @@
     prettier "^2.0.5"
     typescript "^3.9.7"
 
-"@bamdadsabbagh/stylelint-config@^1.2.43", "@bamdadsabbagh/stylelint-config@^1.2.84":
-  version "1.2.84"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.84.tgz#846fa7039a3c48a806382571f6ef1937af356f3d"
-  integrity sha512-uHkETCXT98emIyrWtvL8/JKn8QWNNqfPWZjB7NLCXIPrUghuCdic8wfVQgODosSwYBO6QluIQIi7rJs3aGNNjQ==
+"@bamdadsabbagh/stylelint-config@^1.2.43", "@bamdadsabbagh/stylelint-config@^1.2.85":
+  version "1.2.85"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.85.tgz#aa2171af113c152d59672fe778901bbf8953701b"
+  integrity sha512-jI2Egml7YE9faKHivhXvO6TGID8/8nM7It962QZKNZsQIEoY3G3o2zm7SbbWOh5cF7bHPsI+3SpgjBsWbFItqg==
   dependencies:
     stylelint "^13.5.0"
     stylelint-config-prettier "^8.0.1"
@@ -869,10 +869,10 @@
     stylelint-config-styled-components "^0.1.1"
     stylelint-processor-styled-components "^1.10.0"
 
-"@bamdadsabbagh/webpack-config@^1.1.103":
-  version "1.1.103"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.103.tgz#b954466558020d2c0f62f733903f4886c90fc194"
-  integrity sha512-Zen8gl1bkARaOdCO95rATGUWHa3RrpE6eQ686pIRu/eFU11jltwtjtPcZ3zWE8wTFbldW+s7x/HwZClqVl0GMA==
+"@bamdadsabbagh/webpack-config@^1.1.104":
+  version "1.1.104"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.104.tgz#714eebb7eae8e12c4793229ec136299e441d767f"
+  integrity sha512-QFhqucZFIPT1WAAig31UEI74I0CZ13P9oB2kVKkklCDd8jPwZl9G6rJPeKjuE/az6hsd+W6dQ3tqSDyHvTEHnw==
   dependencies:
     "@babel/core" "^7.11.1"
     "@babel/plugin-proposal-class-properties" "^7.10.4"
