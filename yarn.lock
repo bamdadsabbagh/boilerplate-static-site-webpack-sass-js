@@ -836,10 +836,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@bamdadsabbagh/eslint-config@^1.3.29", "@bamdadsabbagh/eslint-config@^1.3.70":
-  version "1.3.70"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.3.70.tgz#a14f19bc6dc0239df68ff2c632bf610fe87d98e6"
-  integrity sha512-9gaiToFH9eu+ez2+bJbqAeVBIJSIvWKp3haAd3lqr9lpWp0ZwaeRC1TDpizHm00wNKLwdR6gAiKy4lpOJdK1Bg==
+"@bamdadsabbagh/eslint-config@^1.3.29", "@bamdadsabbagh/eslint-config@^1.3.71":
+  version "1.3.71"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.3.71.tgz#1638c2d8eae5eb6611d92196033667b036cf3d29"
+  integrity sha512-ZGlO/sdrBHbys9q5FZvQ3OFKBXfnWU+QoiCqwRnpmtLrBXK5TKrH33QNzzImPtR+cR0EMcE4aW13Kj7XRn9sGg==
   dependencies:
     "@types/node" "^14.0.27"
     "@types/react" "^16.9.46"
@@ -858,10 +858,10 @@
     prettier "^2.0.5"
     typescript "^3.9.7"
 
-"@bamdadsabbagh/stylelint-config@^1.2.43", "@bamdadsabbagh/stylelint-config@^1.2.87":
-  version "1.2.87"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.87.tgz#171992ba11ca0dc5a968846f66757d6b6bb9dc80"
-  integrity sha512-BSTESczXZIQJgVjup/fxqZi5yD8DI/pVejIbNPI5NTei6Kkju4bTaRts0M03BfSmR3QVmiEGeiJdwt3WI9qBuw==
+"@bamdadsabbagh/stylelint-config@^1.2.43", "@bamdadsabbagh/stylelint-config@^1.2.88":
+  version "1.2.88"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.88.tgz#dfd0fd4005cdf318ce890a1ca2dd7997be62377e"
+  integrity sha512-oWFWOHOU1lASEehCLpgAyJClGdP262MFINCg6sxBk+MdlUXeNqJeDBgj2vN3RbghD6aFLiH1/MxF/LKU7WQ9Hg==
   dependencies:
     stylelint "^13.5.0"
     stylelint-config-prettier "^8.0.1"
@@ -869,10 +869,10 @@
     stylelint-config-styled-components "^0.1.1"
     stylelint-processor-styled-components "^1.10.0"
 
-"@bamdadsabbagh/webpack-config@^1.1.107":
-  version "1.1.107"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.107.tgz#6b5d17308333bea5509c87602b2c7eaeb117dd45"
-  integrity sha512-SiZsxBe4UsXb0W2rk0IrP8dtX0rpI6Hm5f1hTfqZcjLMeChbKIXRzWaArvP1KjB7QONvVzTyl45TTaru+7pUHA==
+"@bamdadsabbagh/webpack-config@^1.1.108":
+  version "1.1.108"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.108.tgz#b9e3151331584bd4dcf933f0efc6481a8cc8d250"
+  integrity sha512-Z8fHShcnZntoS6AdO+CVASssMgVeW4RXxj6Y53VC+aYiDlq+h3JywcTagQBx04NBJfX4J+UndcT1sJRM+nYZTw==
   dependencies:
     "@babel/core" "^7.11.1"
     "@babel/plugin-proposal-class-properties" "^7.10.4"
