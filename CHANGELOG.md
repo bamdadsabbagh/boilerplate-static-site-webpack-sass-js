@@ -1,3 +1,20 @@
+## [1.2.102](https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate/compare/v1.2.101...v1.2.102) (2020-10-28)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade__0*100 ([34e2ada](https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate/commit/34e2ada33763b0da0bd75c325777fc2e99ff32a9))
+* asfalte: ⚙️ yarn-upgrade__0*100 ([578fe7d](https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate/commit/578fe7d7b113079b1a27785e46a12a21a9004664))
+* asfalte: ⚙️ yarn-upgrade__0*100 ([25c9a36](https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate/commit/25c9a365577ebdecc5b61a80387a0b1ad6066f8f))
+* asfalte: ⚙️ yarn-upgrade__0*100 ([4b5ff54](https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate/commit/4b5ff542430ac7d5a3e6efb708d0ca670126f9ce))
+* asfalte: ⚙️ yarn-upgrade__0*100 ([f66d644](https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate/commit/f66d644a31550d2cfb09af1a305ea17a67c64ad8))
+* asfalte: ⚙️ yarn-upgrade__0*100 ([79ab22c](https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate/commit/79ab22c714fd8402db92ab9a107360396c4ecb3e))
+* asfalte: ⚙️ yarn-upgrade__0*100 ([22d9d6c](https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate/commit/22d9d6cf8a414df27139ee51a3a6f49fd3684093))
+* asfalte: ⚙️ yarn-upgrade__0*100 ([52161df](https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate/commit/52161df3d788dcf705babc0df574e932d8633deb))
+* asfalte: ⚙️ yarn-upgrade__0*100 ([dfb9d3c](https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate/commit/dfb9d3cd9163ed834aeb513a9a2296f3e4ea898a))
+* asfalte: ⚙️ yarn-upgrade__0*100 ([ee2f529](https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate/commit/ee2f529ff6bb25c2a7706edbfd01afc1cd3e8e86))
+* asfalte: ⚙️ yarn-upgrade__0*100 ([f64d19d](https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate/commit/f64d19d7c6f6dad545520254906976dac42ab555))
+
 ## [1.2.101](https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate/compare/v1.2.100...v1.2.101) (2020-10-27)
 
 
