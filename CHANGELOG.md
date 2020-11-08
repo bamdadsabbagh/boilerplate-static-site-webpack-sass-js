@@ -1,3 +1,11 @@
+## [1.2.113](https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate/compare/v1.2.112...v1.2.113) (2020-11-08)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade__0*100 ([a1a2f22](https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate/commit/a1a2f226635cdcbcdc77fb203d12555c87c7919d))
+* asfalte: ⚙️ yarn-upgrade__0*100 ([5503679](https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate/commit/5503679f4337c26cd3a08e50b3833c3c1f56fc9b))
+
 ## [1.2.112](https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate/compare/v1.2.111...v1.2.112) (2020-11-07)
 
 
