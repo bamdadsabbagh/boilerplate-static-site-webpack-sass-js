@@ -12,9 +12,9 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@bamdadsabbagh/eslint-config": "^1.4.10",
-    "@bamdadsabbagh/stylelint-config": "^1.2.108",
-    "@bamdadsabbagh/webpack-config": "^1.1.137"
+    "@bamdadsabbagh/eslint-config": "^1.4.11",
+    "@bamdadsabbagh/stylelint-config": "^1.2.109",
+    "@bamdadsabbagh/webpack-config": "^1.1.138"
   },
   "version": "1.2.115"
 }
