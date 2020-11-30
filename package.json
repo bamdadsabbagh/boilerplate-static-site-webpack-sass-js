@@ -1,13 +1,21 @@
 {
   "name": "static-html-sass-js-boilerplate",
+  "version": "1.2.134",
   "license": "MIT",
+  "author": {
+    "name": "Bamdad Sabbagh",
+    "email": "hello@bamdadsabbagh.com",
+    "url": "https://bamdadsabbagh.com"
+  },
   "scripts": {
     "build": "yarn build:clean && yarn build:webpack && yarn build:serve",
     "build:clean": "rm -rf dist/",
     "build:serve": "serve -s dist/",
     "build:webpack": "cross-env NODE_ENV=production webpack --config node_modules/@bamdadsabbagh/webpack-config/webpack.prod.js",
     "lint": "eslint src --ext .js,.jsx,.ts,.tsx --fix",
-    "sort:package": "npx sort-package-json",
+    "package:clean": "rm -rf node_modules",
+    "package:reinstall": "yarn package:clean && yarn",
+    "package:sort": "npx sort-package-json",
     "start": "cross-env NODE_ENV=development webpack-dev-server --config node_modules/@bamdadsabbagh/webpack-config/webpack.dev.js"
   },
   "dependencies": {},
@@ -15,6 +23,5 @@
     "@bamdadsabbagh/eslint-config": "^1.4.25",
     "@bamdadsabbagh/stylelint-config": "^1.2.123",
     "@bamdadsabbagh/webpack-config": "^1.1.156"
-  },
-  "version": "1.2.134"
+  }
 }
