@@ -1,18 +1,21 @@
-# static-html-sass-js-boilerplate
+#
 
-## dev
+<p align=center>
+    boilerplate-static-site-webpack-sass-js
+</p>
+
+## Dev
 
 work in `src` folder
 
 ```bash
-git clone https://github.com/bamdadsabbagh/static-html-sass-js-boilerplate
-cd static-html-sass-js-boilerplate
-yarn install
-yarn upgrade --latest
+git clone https://github.com/bamdadsabbagh/boilerplate-static-site-webpack-sass-js
+cd boilerplate-static-site-webpack-sass-js
+yarn
 yarn start
 ```
 
-## build
+## Build
 
 outputs in `dist` folder
 
