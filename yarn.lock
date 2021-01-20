@@ -823,9 +823,9 @@
     to-fast-properties "^2.0.0"
 
 "@bamdadsabbagh/eslint-config@^1.3.29", "@bamdadsabbagh/eslint-config@^1.5.0":
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.5.2.tgz#27c2ff9e15fba7bf8ef0816d17444df9bd5af5a7"
-  integrity sha512-WP5QM/sIqz71L2wqAYTGIZ3221fn1Mlr/Do+CauI3CHNWvMMo5TGdxcDdCOLI0Qioy/gIwqMcmfS82fhWZmMUQ==
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.5.3.tgz#a2e3aa56bae932ade7acac9400d0390ab4563d90"
+  integrity sha512-eYOzyNFD6aX3GHxQo/vrUpl9RYxWXt/j1Y8OZZaeLWqlzdYugKbp3y5eQQVlyROWV0rToi2R9vAK0ouqRIgbQw==
   dependencies:
     "@types/node" "^14.0.27"
     "@types/react" "^17.0.0"
@@ -845,9 +845,9 @@
     typescript "^4.0.5"
 
 "@bamdadsabbagh/stylelint-config@^1.2.124", "@bamdadsabbagh/stylelint-config@^1.2.43":
-  version "1.2.164"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.164.tgz#8c365f4af9f4c0393fdc2f53baeab51c6bd7a725"
-  integrity sha512-m1NYxGgVzHHfTOOITbGVGqWm3PMVtZ6ItORi97cxovXVXjwKrQsXPQP+jHEPmGzYcI9H/mmnLzYASWttZ/rrVw==
+  version "1.2.165"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.165.tgz#e9df77360470c5786e10460c93f6e510166cf7e8"
+  integrity sha512-da7coeQ4lm+JXh/M2NaNdroPpMmfEzTdBuJUt/zbNF8Qu4MIt5JclOsGJ9MLq8nmLIiqSQp0DeSPjNfR7mApXw==
   dependencies:
     stylelint "^13.5.0"
     stylelint-config-prettier "^8.0.1"
@@ -856,9 +856,9 @@
     stylelint-processor-styled-components "^1.10.0"
 
 "@bamdadsabbagh/webpack-config@^1.1.159":
-  version "1.1.209"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.209.tgz#e41a352bc5c830346b99b1392954072ba729c1b9"
-  integrity sha512-3pYAeE/Nw/ng9JtVBhM3MdMzxent+PRMW9K0Dv7ezWjCAf/SDHdwFGo1muFq77LLUi//UJ69C0iSzdhqGkz1+g==
+  version "1.1.210"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.210.tgz#d9d1d3ba553fba7bee1e755be621f19b8567917e"
+  integrity sha512-THh2ZAYBEKl/r/QpatbE5Piup+sbsfKFSsdogBlCG5F/LQn8qBXTIqHCWDTJ6+4JpViAGsH8vi1PV8PV6ZFSsQ==
   dependencies:
     "@babel/core" "^7.11.1"
     "@babel/plugin-proposal-class-properties" "^7.10.4"
@@ -6864,9 +6864,9 @@ sass-loader@^10.1.0:
     semver "^7.3.2"
 
 sass@^1.26.10:
-  version "1.32.4"
-  resolved "https://registry.yarnpkg.com/sass/-/sass-1.32.4.tgz#308bf29dd7f53d44ae4f06580e9a910ad9aa411e"
-  integrity sha512-N0BT0PI/t3+gD8jKa83zJJUb7ssfQnRRfqN+GIErokW6U4guBpfYl8qYB+OFLEho+QvnV5ZH1R9qhUC/Z2Ch9w==
+  version "1.32.5"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.32.5.tgz#2882d22ad5748c05fa9bff6c3b0ffbc4f4b9e1dc"
+  integrity sha512-kU1yJ5zUAmPxr7f3q0YXTAd1oZjSR1g3tYyv+xu0HZSl5JiNOaE987eiz7wCUvbm4I9fGWGU2TgApTtcP4GMNQ==
   dependencies:
     chokidar ">=2.0.0 <4.0.0"
 
