@@ -856,9 +856,9 @@
     stylelint-processor-styled-components "^1.10.0"
 
 "@bamdadsabbagh/webpack-config@^1.1.159":
-  version "1.1.210"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.210.tgz#d9d1d3ba553fba7bee1e755be621f19b8567917e"
-  integrity sha512-THh2ZAYBEKl/r/QpatbE5Piup+sbsfKFSsdogBlCG5F/LQn8qBXTIqHCWDTJ6+4JpViAGsH8vi1PV8PV6ZFSsQ==
+  version "1.1.211"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.211.tgz#bc9334a24e6ffbed13c39f3ebe4a5615aed9a0bb"
+  integrity sha512-vAma2zGIgU5nxWzED4AqOLF6vsUZGuQqs516yOVxzx9LfMyylOMVH5xFU/CSl0zc45C7qKm7D2nDN/xswGgsVg==
   dependencies:
     "@babel/core" "^7.11.1"
     "@babel/plugin-proposal-class-properties" "^7.10.4"
