@@ -1,3 +1,15 @@
+## [1.2.199](https://github.com/bamdadsabbagh/boilerplate-static-site-webpack-sass-js/compare/v1.2.198...v1.2.199) (2021-02-02)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--0x100 ([8596b95](https://github.com/bamdadsabbagh/boilerplate-static-site-webpack-sass-js/commit/8596b95082e76275481fd5db6a895ae4e3ee4639))
+* asfalte: ⚙️ yarn-upgrade--0x100 ([00cd5b4](https://github.com/bamdadsabbagh/boilerplate-static-site-webpack-sass-js/commit/00cd5b46c5df9e318624aeab20c06c686ba985d3))
+* asfalte: ⚙️ yarn-upgrade--0x100 ([50d98cb](https://github.com/bamdadsabbagh/boilerplate-static-site-webpack-sass-js/commit/50d98cb1b0427e738d0df3b249d8fc4112a1a56b))
+* asfalte: ⚙️ yarn-upgrade--0x100 ([2e7ea6d](https://github.com/bamdadsabbagh/boilerplate-static-site-webpack-sass-js/commit/2e7ea6ded360667e29f08da502123606663e2802))
+* asfalte: ⚙️ yarn-upgrade--0x100 ([8bcd201](https://github.com/bamdadsabbagh/boilerplate-static-site-webpack-sass-js/commit/8bcd201182d0e55b2104ef40a38b6fac7f89b239))
+* asfalte: ⚙️ yarn-upgrade--0x100 ([15d143f](https://github.com/bamdadsabbagh/boilerplate-static-site-webpack-sass-js/commit/15d143f614d03d15e16e9f2c3eecffff5f71b2c8))
+
 ## [1.2.198](https://github.com/bamdadsabbagh/boilerplate-static-site-webpack-sass-js/compare/v1.2.197...v1.2.198) (2021-02-01)
 
 
