@@ -813,9 +813,9 @@
     to-fast-properties "^2.0.0"
 
 "@bamdadsabbagh/eslint-config@^1.3.29", "@bamdadsabbagh/eslint-config@^1.5.0":
-  version "1.5.9"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.5.9.tgz#571dec07fc668244a38656019fd6f33e12312c9c"
-  integrity sha512-QKawYkU25mBsNpYTUL+Uoe+sUfYo+W+lqR3M3MxNliA5GCeDkGuxqeGnkjgxVvs0vYiBZjU5lfoN4IoG4j4OGA==
+  version "1.5.10"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.5.10.tgz#1ebf575098756c02761a8074317a579daa24a172"
+  integrity sha512-LLEk2aa4To8H7s3Xeykek2FHj5TBt7fss1gEfmOF39DjxAsHT7ogEyvmxq6QekGdAf07RpzRTGWBjrq4Qzcnmw==
   dependencies:
     "@types/node" "^14.0.27"
     "@types/react" "^17.0.0"
@@ -835,9 +835,9 @@
     typescript "^4.0.5"
 
 "@bamdadsabbagh/stylelint-config@^1.2.124", "@bamdadsabbagh/stylelint-config@^1.2.43":
-  version "1.2.175"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.175.tgz#3cf3e32cdafbeaa26df68bfaa3fa980fc06e3652"
-  integrity sha512-xgAmshw/+e0L1f+xatrjSd4Y7/f+sNIFUataizdD6y7tkjPTwrdMejza/drwbLBGMuUsHk0WAXltHlKBSS2ipA==
+  version "1.2.176"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.176.tgz#d5492201309eea29fd43c691c82bc60cc53e4315"
+  integrity sha512-tRTRjDUqRJjqiSBI7vbkO1gH6q4k4T3myPtdWUvDB2anyh18jwSwzxnefq5ls28CAu/NruaHaI4GMKRaas6JLg==
   dependencies:
     stylelint "^13.5.0"
     stylelint-config-prettier "^8.0.1"
@@ -846,9 +846,9 @@
     stylelint-processor-styled-components "^1.10.0"
 
 "@bamdadsabbagh/webpack-config@^1.1.159":
-  version "1.1.223"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.223.tgz#2d75f17314d8d082e471fd2d084c5e51fd537d58"
-  integrity sha512-8xQOcbwNHg04wuH0Pl0d05STUj3bwNus5VrCy69JbGImncgZlg80EUMtsM8nExYmyY59UDxDIcZjGxqioGFSBw==
+  version "1.1.224"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/webpack-config/-/webpack-config-1.1.224.tgz#5672df4eb2bf32c4913371216e102c25709ba118"
+  integrity sha512-pTp8FSTe+yTvFHfZm38mzQVii6NBHF4yM3Xswmz7iCfHIrfQ8YklFZ3Tk+7vXI5GZVJoIfbOk6CEAEP0uuHg0A==
   dependencies:
     "@babel/core" "^7.11.1"
     "@babel/plugin-proposal-class-properties" "^7.10.4"
@@ -2805,9 +2805,9 @@ ee-first@1.1.1:
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
 electron-to-chromium@^1.3.649:
-  version "1.3.650"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.650.tgz#24e821fff2ed61fd71fee092f2a0631b3c0c22a6"
-  integrity sha512-j6pRuNylFBbroG6NB8Lw/Im9oDY74s2zWHBP5TmdYg73cBuL6cz//SMgolVa0gIJk/DSL+kO7baJ1DSXW1FUZg==
+  version "1.3.651"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.651.tgz#aa6d6613133a41d558e115e7e668159fd32966ad"
+  integrity sha512-2gWRGUMZB/BGru4LOQ6w6mZmesBk4pLPvi64x48cL6fwUVBeOenBbnrclLjLsQ/NjG2TWHEnTycWJc3IgEl0vQ==
 
 emoji-regex@^7.0.1:
   version "7.0.3"
