@@ -12,16 +12,18 @@
     "build:clean": "rm -rf dist/",
     "build:serve": "serve -s dist/",
     "build:webpack": "cross-env NODE_ENV=production webpack --config node_modules/@bamdadsabbagh/webpack-config/webpack.prod.js",
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --config node_modules/@bamdadsabbagh/webpack-config/webpack.dev.js",
+    "dev2": "cross-env NODE_ENV=development webpack serve --config node_modules/@bamdadsabbagh/webpack-config/webpack.dev.js",
     "lint": "eslint src --ext .js,.jsx,.ts,.tsx --fix",
     "package:clean": "rm -rf node_modules",
     "package:reinstall": "yarn package:clean && yarn",
     "package:sort": "npx sort-package-json",
-    "start": "cross-env NODE_ENV=development webpack-dev-server --config node_modules/@bamdadsabbagh/webpack-config/webpack.dev.js"
+    "start": "yarn dev"
   },
   "dependencies": {},
   "devDependencies": {
-    "@bamdadsabbagh/eslint-config": "^1.5.0",
-    "@bamdadsabbagh/stylelint-config": "^1.2.124",
-    "@bamdadsabbagh/webpack-config": "^1.1.159"
+    "@bamdadsabbagh/eslint-config": "^1.7.0",
+    "@bamdadsabbagh/stylelint-config": "^1.2.186",
+    "@bamdadsabbagh/webpack-config": "^1.2.0"
   }
 }
